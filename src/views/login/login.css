@@ -1,0 +1,11 @@
+.container{
+    height: 100vh;
+    background-color: blueviolet;
+}
+input{
+    margin-bottom: 10px;
+
+}
+button{
+    display: block;
+}
